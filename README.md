@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Swapnil  
-Roll Number: 24BCE10934  
+Name: Udit Gupta 
+Roll Number: 24BCE10809
 
 ## Chosen Software
 Python Programming Language
